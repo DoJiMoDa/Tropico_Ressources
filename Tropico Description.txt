@@ -1,0 +1,41 @@
+[img]https://imgur.com/a/G2qOWvK[/img]
+
+[b]Welcome to Tropico[/b]
+
+This Mod adds the Glorious Nation of Tropico to the Game.
+You can lead El Presidente to World Domination. Or even oppose his totalitarian Regime and install a far worst government.
+
+Control your Nation with the many decisions that will be unlocked when the game progresses.
+Meet all the Characters from Tropico who will help you rule your Country.
+Take a look at the beautiful equipment that Tropico can produce.
+
+[h1]This is currently a beta so there will be bugs. Please report them here or on my discord.[/h1]
+https://discord.gg/zgky6FJ
+On my discord, I will keep you updated on my progress and its an easy way to get in contact with me
+
+Some honorable mentions of people how helped me out when I was stuck
+Thanks [b]Dan[/b] for the Focus resources and moral support.
+Thanks [b]Xaph[/b] for the map improvments.
+Thanks [b]Lucifer[/b] for getting me into mapping.
+Thanks [b]Beef[/b] for your patients.
+Thanks [b]Ranger_NCR[/b] for the russian translation.
+Thanks [b]Barbarossa[/b] for sitting down with me and fixing the worst bugs. 
+
+[h1] The Roadmap [/h1]
+Alpha
+-Define the Country✔
+-Add Equipment pictures✔
+-Add Focustree✔
+-new Decisions✔
+
+Beta
+-fixed Bugs✔
+-Add Tropico Islands on Map✔
+-New Focustree✔
+-rebalancing✔
+-New Events✔
+
+[img]https://imgur.com/a/ENNaLxv[/img]
+
+[b]Known issues[/b]
+-nothing ... yet
