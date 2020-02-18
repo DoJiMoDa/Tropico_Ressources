@@ -1,0 +1,52 @@
+okay
+so
+it's not hard
+but it's time consuming
+the very first thing you need to do is open the game in debug mode, go to nudge, click "database" and generate a new RGB value
+do this for however many new provinces you want to add
+
+make sure to write them down
+
+next, open something like GIMP or Photoshop or Paint.net
+I use GIMP personally
+and then open up your mod's provinces.bmp
+set the pencil tool to the specific RGB value you got from the game
+and then draw your little island wherever the ass you want on the map
+do the same for all the colours/provinces you want
+go to file, export, and export it to documents/Paradox Interactive/ HOI4/mod/YOUR MOD/Map/provinces.bmp or something like that
+and then save it as a 24 bit BMP file, and DO NOT save colour pallette options
+KommissarYoshiheute um 08:18 Uhr
+proper dir is Documents\Paradox Interactive\ 
+Hearts of Iron IV\mod\your mod here\map\provinces.bmp
+Lucifer, the Morning Starheute um 08:18 Uhr
+
+next open up the terrain map and draw the proper terrain in the same spots as you drew the new provinces
+you can find a list of terrains on the wiki, and I'm pretty sure it's pinned here
+
+then go into your localisation folder and open the province one
+I can't remember it's name off the top of my head
+wait shit
+nevermind I remember
+in your map folder
+there's a file called definitions.csv
+open that
+and add your new provinces
+just add 1 to whatever province id is right before it, i.e .13290 -> 13291
+and then the next three numbers are the R, G, and B values of your province colour
+and then the type of terrain (I believe this is graphical but set it to the same one you painted in terrain)
+and then whether or not it has a coast (it's an island, so yes)
+and then the continent it's on (it's an island, so the continent is "0")
+
+After that go into history/states
+make a new state
+and your provinces to it
+and buildings, victory points, manpower, etc.
+you can copy it from another state or look it up on the wiki
+then either add it to an existing supply area or make a new one
+this can be done in the nudge tool in game
+and then add it to a strategic region, or make a new one
+this can also be done in the nudge tool
+After all that, go into nudge and just check for errors
+in the buildings category, etc.
+and use the "units" tab to design how you want units to display on the graphics map when they're in the province
+and then I think you're done
